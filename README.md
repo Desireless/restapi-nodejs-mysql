@@ -59,14 +59,18 @@ You need to create a .env file that contains:
 - PORT=express port (by default: 3000)
 
 so, your .env file should look like this:
+
 ![](https://i.imgur.com/gCmeyJc.png)
+
 ## Database
 inside db folder, there is a file with some querys to manipulate the database
 
 Example (using Railway)
+
 ![](https://i.imgur.com/lrzPZkP.png)
 
 Demo (using Thunder client)
+
 ![](https://i.imgur.com/MNZuKyb.png)
 
 
